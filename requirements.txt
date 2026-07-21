@@ -1,0 +1,6 @@
+requests
+python-dotenv
+flask
+os
+json
+data_fetcher
