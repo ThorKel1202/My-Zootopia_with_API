@@ -69,16 +69,19 @@
     <body>
         <h1>My Animal Repository</h1>
 
+        <!-- Ask user for animal input -->
+        <form method="POST">
+            <input type="text" name="animal" placeholder="Please enter your animal: ">
+            <button type="Submit">Search</button>
+        </form>
 
-<!-- 🔍 Suchfeld -->
-<form method="POST">
-    <input type="text" name="animal" placeholder="Enter animal name">
-    <button type="submit">Search</button>
-</form>
+        <!-- Error message if input invalid -->
+        {% if error %}
+            <h2 style="color:red;">{{ error }}</h2>
+        {% endif %}
 
-<ul class="cards">
-    {{ animals|safe }}
-</ul>
-
-</body>
+        <ul class="cards">
+            {{ animals|safe }}
+        </ul>
+    </body>
 </html>
