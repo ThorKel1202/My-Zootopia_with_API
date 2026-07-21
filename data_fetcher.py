@@ -1,6 +1,10 @@
 import requests
+import os
+from dotenv import load_dotenv
 
-API_KEY = "nRnJ3WGTEGolRVzQ2F7X2reLN9CYYD6BiWtyekEa"
+load_dotenv()
+
+API_KEY = os.getenv('API_KEY')
 
 
 def fetch_data(name):
@@ -31,3 +35,4 @@ def fetch_data(name):
         return response.text
     else:
         return None
+    
