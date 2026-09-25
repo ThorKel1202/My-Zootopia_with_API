@@ -1,1 +1,32 @@
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# PyCharm
+.idea/
+
+# Environment Variables / Secrets
 .env
+
+# Test / Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build / Packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
