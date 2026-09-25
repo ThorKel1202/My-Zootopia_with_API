@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c1be371c-2129-4fe2-854e-194cbfc0a7cc" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.4175446313783557" />
+      <entry key="MS500" value="1.941222215644535" />
+      <entry key="S2" value="3.52550427027279" />
+      <entry key="S5" value="5.365311503105898" />
+      <entry key="S10" value="6.483915024666913" />
+      <entry key="S30" value="8.50541299501391" />
+      <entry key="S60" value="12.691266027874024" />
+      <entry key="M2" value="22.951535818262595" />
+      <entry key="M5" value="48.572057087400225" />
+      <entry key="M10" value="75.43199650514424" />
+      <entry key="M15" value="93.57506268843555" />
+      <entry key="M30" value="126.49429230903598" />
+      <entry key="H1" value="165.41028671269" />
+      <entry key="H2" value="246.8800702756127" />
+      <entry key="H4" value="406.0888653587149" />
+      <entry key="D1" value="818.5244335149196" />
+      <entry key="W1" value="950.2779303556765" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="1.3348829736944123E-182" />
+      <entry key="S10" value="1.155371357483997E-91" />
+      <entry key="S30" value="4.8705035655797105E-31" />
+      <entry key="S60" value="6.978899315493615E-16" />
+      <entry key="M2" value="2.6417606468969872E-8" />
+      <entry key="M5" value="9.305878684077681E-4" />
+      <entry key="M10" value="0.030505538503878073" />
+      <entry key="M15" value="0.09763089215665809" />
+      <entry key="M30" value="0.31319576512776204" />
+      <entry key="H1" value="0.6066159115757896" />
+      <entry key="H2" value="1.2118308027168077" />
+      <entry key="H4" value="2.4547360024781564" />
+      <entry key="D1" value="5.746480078875194" />
+      <entry key="W1" value="6.801939489789302" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.3625856466495758" />
+      <entry key="MS500" value="1.926333435505663" />
+      <entry key="S2" value="3.514748225857702" />
+      <entry key="S5" value="5.355900317003946" />
+      <entry key="S10" value="6.477481543323482" />
+      <entry key="S30" value="8.502524819820994" />
+      <entry key="S60" value="12.689317364643275" />
+      <entry key="M2" value="22.949845967506363" />
+      <entry key="M5" value="48.56968108424609" />
+      <entry key="M10" value="75.45622396875936" />
+      <entry key="M15" value="93.66486470724222" />
+      <entry key="M30" value="126.79916218710412" />
+      <entry key="H1" value="166.01015917836088" />
+      <entry key="H2" value="248.08643214685364" />
+      <entry key="H4" value="408.538985562368" />
+      <entry key="D1" value="824.2693035587971" />
+      <entry key="W1" value="957.0795998524726" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3GdPnghEC7zFXGJ93VFCpbpmxkf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.animals.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.animals_web_generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.animals_web_generator_for_fetch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.animals_with_API.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_fetcher.executor&quot;: &quot;Run&quot;,
+    &quot;Python.make_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.py_to_flask_to_html.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testing_the_task.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tk/Desktop/MSIT/CODIO/My_Zootopia_API - CODIO&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tk\Desktop\MSIT\CODIO\My_Zootopia_API - CODIO\templates" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PY-261.26222.68" />
+        <option value="bundled-python-sdk-50341a9f1f9c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.26222.68" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1be371c-2129-4fe2-854e-194cbfc0a7cc" name="Changes" comment="" />
+      <created>1784298641288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784298641288</updated>
+      <workItem from="1784298642310" duration="7367000" />
+      <workItem from="1784533355135" duration="12571000" />
+      <workItem from="1784559173977" duration="807000" />
+      <workItem from="1784572178258" duration="11000" />
+      <workItem from="1784622678347" duration="16461000" />
+      <workItem from="1785517649504" duration="28000" />
+      <workItem from="1790338825562" duration="1646000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/My_Zootopia_API___CODIO$app.coverage" NAME="app Coverage Results" MODIFIED="1784631757378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/My_Zootopia___CODIO$animals_web_generator.coverage" NAME="animals_web_generator Coverage Results" MODIFIED="1784544075959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/My_Zootopia_API___CODIO$testing_the_task.coverage" NAME="testing_the_task Coverage Results" MODIFIED="1784630433307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/My_Zootopia_API___CODIO$data_fetcher.coverage" NAME="data_fetcher Coverage Results" MODIFIED="1784646221156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/My_Zootopia___CODIO$make_string.coverage" NAME="make_string Coverage Results" MODIFIED="1784539537130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/My_Zootopia_API___CODIO$py_to_flask_to_html.coverage" NAME="py_to_flask_to_html Coverage Results" MODIFIED="1784631212023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/My_Zootopia_API___CODIO$animals_with_API.coverage" NAME="animals_with_API Coverage Results" MODIFIED="1784634092354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/My_Zootopia_API___CODIO$animals_web_generator_for_fetch.coverage" NAME="animals_web_generator_for_fetch Coverage Results" MODIFIED="1784644746254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
